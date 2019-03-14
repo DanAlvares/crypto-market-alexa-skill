@@ -1,0 +1,24 @@
+"CoinInfoIntent"
+--------------------------------
+"what's the latest on {coin}",
+"to update me on {coin}",
+"how is {coin} doing",
+"about {coin}",
+"for the latest on {coin}",
+"how {coin} is doing",
+"for updates on {coin}",
+"more about {coin}",
+"update me on {coin}"
+
+
+"CoinPriceIntent"
+-------------------------------
+"what's the price of {coin}",
+"for the current price of {coin}",
+"to tell me the price of {coin}",
+"for the latest {coin} price",
+"for the {coin} price",
+"for the price of {coin}",
+"what's the price of {coin} at the moment",
+"what is the latest {coin} price",
+"give me the current {coin} price"
